@@ -1,0 +1,14 @@
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\bin\Debug\net8.0\CleanCode.exe
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\bin\Debug\net8.0\CleanCode.deps.json
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\bin\Debug\net8.0\CleanCode.runtimeconfig.json
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\bin\Debug\net8.0\CleanCode.dll
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\bin\Debug\net8.0\CleanCode.pdb
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfoInputs.cache
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.AssemblyInfo.cs
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.dll
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\refint\CleanCode.dll
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.pdb
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\CleanCode.genruntimeconfig.cache
+C:\Users\Elgiganten\source\repos\CleanCode123\CleanCode\obj\Debug\net8.0\ref\CleanCode.dll
